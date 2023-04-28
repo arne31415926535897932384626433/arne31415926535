@@ -1,2 +1,2 @@
-<h2>Matthias is Sexy</h2>
-Mijn beschrijving
+<h1>Matthias is Sexy</h1>
+<i>Mijn beschrijving</i>
